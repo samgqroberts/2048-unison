@@ -1,6 +1,6 @@
 # 2048-unison
 
-A Unison implementation of the game [2048](https://play2048.co/) that uses the terminal as the user interface.
+A [Unison](https://www.unisonweb.org/) implementation of the game [2048](https://play2048.co/) that uses the terminal as the user interface.
 
 ![Screenshot](https://i.imgur.com/1ApdWF7.png)
 
