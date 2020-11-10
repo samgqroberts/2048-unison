@@ -19,6 +19,6 @@ Then, `run` `.trunk.cli.play2048`
 
 ## Acknowledgements
 
-- Gabrielle Cirulli (@gabrielecirulli) who created [the original version of the game](https://github.com/gabrielecirulli/2048).
+- Gabrielle Cirulli ([@gabrielecirulli](https://github.com/gabrielecirulli)) who created [the original version of the game](https://github.com/gabrielecirulli/2048).
 - The contributors to [2048-cli](https://github.com/tiehuis/2048-cli), which was a very helpful reference in how to put 2048 in the terminal.
-- @atacratic who created [the one external library this application uses](https://github.com/atacratic/unison-random-mersenne) (for random number generation).
+- [@atacratic](https://github.com/atacratic) who created [the one external library this application uses](https://github.com/atacratic/unison-random-mersenne) (for random number generation).
